@@ -84,11 +84,11 @@ footer{
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
-digits{
+section.digits{
     color: hsl(229, 23%, 23%);
     font-weight: 700;
 }
-items{
+section.items{
     color: hsl(227, 10%, 46%);
     font-weight: 400;
     font-size: 0.8rem;
