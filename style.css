@@ -70,7 +70,7 @@ h3{
     font-size: 1.1rem;
     padding-top: 0.5rem;
 }
-static{
+section.static{
     display: grid;
     text-align: center;
     line-height: 1.5rem;
