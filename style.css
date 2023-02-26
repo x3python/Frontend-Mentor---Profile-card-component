@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    height: 100vh;
+    place-content: center;
+    background-color: hsl(185, 75%, 39%);
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: bottom 10rem left -30rem, top 20rem right -20rem;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+
+}
+picture{
+   display: grid;
+   justify-items: center;
+   position: relative;
+}
+.background{
+    position: relative;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.person{
+    position: absolute;
+    margin-top: 5.7rem;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+main.card{
+    width: fit-content;
+    background-color: #fff;
+    border-radius: 1rem;
+
+}
+text{
+    display: grid;
+    justify-content: center;
+    padding-top: 4rem;
+}
+section.item{
+    display: flex;
+    align-items:end;
+    padding-top: 1rem;
+    justify-content: center;
+}
+h1{
+    color: hsl(229, 23%, 23%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+    word-spacing: 0.1rem;
+}
+h2{
+    color: hsl(229, 23%, 23%);
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+}
+h3{
+    text-align: center;
+    padding-bottom: 1.5rem;
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
+    font-size: 1.1rem;
+    padding-top: 0.5rem;
+}
+static{
+    display: grid;
+    text-align: center;
+    line-height: 1.5rem;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+digits{
+    color: hsl(229, 23%, 23%);
+    font-weight: 700;
+}
+items{
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+hr{
+    width:auto;
+    border-top: thin solid hsl(227, 10%, 46%, 0.2);
+}
+
