@@ -38,7 +38,7 @@ main.card{
     border-radius: 1rem;
 
 }
-text{
+text-area{
     display: grid;
     justify-content: center;
     padding-top: 4rem;
