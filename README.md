@@ -9,7 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-LGLKyEeZtj
-- Live Site URL: https://x3python.github.io/Frontend-Mentor-QR-code-component/
+- Live Site URL: https://x3python.github.io/Frontend-Mentor---Profile-card-component/
 
 ### Built with
 
