@@ -16,7 +16,7 @@ body{
     font-size: 18px;
 
 }
-picture{
+picture-area{
    display: grid;
    justify-items: center;
    position: relative;
