@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-LGLKyEeZtj
+- Solution URL: https://www.frontendmentor.io/solutions/simple-card-with-using-css-grid-flex-9oxN9GB6XN
 - Live Site URL: https://x3python.github.io/Frontend-Mentor---Profile-card-component/
 
 ### Built with
